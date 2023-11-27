@@ -1,0 +1,567 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .theme-btn{
+    padding: 12px 20px;
+    font-size: 14px;
+    line-height: 16px;
+}
+    p{font-size: 16px;}
+    .mr-55{
+    margin-top: -70px;
+}
+.header-area a.theme-btn{padding: 13px 30px 11px;font-size: 15px;}
+
+.header-area.sticky .menu-area nav ul li a,
+.menu-area nav ul li a {
+font-size: 13px;
+margin-left: 15px;
+}
+.nice-select {
+    margin-right: 35px;
+    font-size: 15px;
+    width: 35px;
+}
+ul.list li.option{
+font-size: 12px;
+}
+.hero-wrp h1{
+font-size: 50px;
+}
+
+
+.steps-area{
+    margin-bottom: 50px;
+}
+.steps-top{
+    margin: 60px;
+}
+.steps-top p{
+    font-size: 18px;
+}
+.steps-top img{
+    margin-right: 40px;
+    width: 60px;
+}
+.title-heading{
+    font-size: 40px;
+    text-align: center;
+}
+.sing-step .stp-img h1{
+    font-size: 190px;
+    top: -153px;
+    right: -27px;
+}
+.sing-step .stp-img img{
+    width: 100%;
+    min-width: 240px;
+}
+.sing-step .stp-wrp h2{
+    font-size: 35px;
+}
+
+
+.m-blk span{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.m-blk h3{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.m-blk a{
+    margin-top: 15px;
+}
+.memorise-wrp:before{
+    height: 280px;
+}
+
+
+
+.mice-area{
+    margin: 100px 0;
+    padding-bottom: 40px;
+}
+.mice-wrp span{
+    margin-bottom: 10px;
+}
+.mice-wrp h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.mice-wrp a{
+    margin-top: 15px;
+}
+
+.memorise-wrp.afcm:before{
+    height: 298px;
+}
+
+
+
+.contact-area .contact-left h2{
+    font-size: 40px;
+    max-width: 300px;
+}
+
+
+
+.contact-area form input, textarea{
+    margin-bottom: 35px;
+}
+/*====== home page end ==========*/
+
+.e-hero {
+    width: 401px;
+}
+/*====== Eventos  page end ==========*/
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.theme-btn{
+    padding: 10px 13px;
+    font-size: 12px;
+    line-height: 13px;
+}
+    p{font-size: 13px;line-height: 20px;margin-bottom: 10px;}
+    .mr-55{
+    margin-top: -140px;
+}
+.header-area{
+    padding: 15px 0 50px;
+}
+.header-area a.theme-btn{padding: 13px 30px 11px;font-size: 15px;}
+.logo-area {
+    width: max-content;
+}
+
+.logo-area a img {
+    width: 100%;
+    max-width: 150px;
+}
+.header-area.sticky .menu-area nav ul li a,
+.menu-area nav ul li a {
+font-size: 13px;
+margin-left: 15px;
+}
+.nice-select {
+    margin-right: 35px;
+    font-size: 15px;
+    width: 35px;
+}
+ul.list li.option{
+font-size: 12px;
+}
+.hero-item{
+    padding: 200px 0 60px;
+}
+.hero-wrp h1{font-size: 30px;margin-bottom: 30px;}
+
+
+.steps-area{
+    margin-bottom: 50px;
+}
+.steps-top{
+    margin: 35px 90px;
+}
+.steps-top p{
+    font-size: 15px;
+}
+.steps-top img{
+    margin-right: 40px;
+    width: 60px;
+}
+.title-heading{
+    font-size: 35px;
+    text-align: center;
+}
+.title{
+    margin-bottom: 65px;
+}
+.mbt-0{ margin-bottom: 0 !important;}
+.sing-step {
+    margin-bottom: 125px;
+}
+
+.sing-step .stp-wrp{
+    padding-top: 10px;
+}
+.sing-step .stp-img h1{
+    font-size: 135px;
+    top: -109px;
+    right: -19px;
+}
+.sing-step .stp-wrp p{
+    padding-right: 0px;
+}
+.sing-step .stp-img img{
+    width: 100%;
+    min-width: 175px;
+}
+.sing-step .stp-wrp h2{
+    font-size: 25px;
+}
+
+.m-blk {
+    width: 50%;
+    padding: 50px 50px 30px 50px;
+    margin-top: 90px;
+    margin-left: 4px;
+}
+.m-blk.right {
+    width: 101%;
+    margin-top: 0;
+    padding: 30px 50px 30px 51px;
+    margin-left: 11px;
+}
+.m-blk span{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.m-blk h3{
+    font-size: 25px;
+    margin-bottom: 15px;
+    width: 285px;
+}
+.m-blk a{
+    margin-top: 15px;
+}
+.memorise-wrp:before{
+    height: 237px;
+}
+
+
+
+.mice-area{
+    margin: 50px 0;
+    padding-bottom: 40px;
+}
+.mice-area:before{}
+.mice-wrp span{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.mice-wrp h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.mice-wrp a{
+    margin-top: 5px;
+}
+
+.memorise-wrp.afcm:before{
+    height: 267px;
+}
+.memorise-area.nexts{
+    margin-bottom: 0;
+}
+
+
+
+.contact-area{
+    padding: 50px 0;
+}
+.contact-area .contact-left h2{
+    font-size: 30px;
+    max-width: 300px;
+}
+.contact-right p{
+    width: 300px;
+    float: right;
+    text-align: left;
+}
+.contact-right {
+    margin-top: -30px;
+}
+textarea{
+    height: 90px;
+    padding-top: 15px;
+}
+
+.contact-area form input, textarea{
+    margin-bottom: 25px;
+}
+input::placeholder {
+    font-size: 14px;
+}
+
+textarea::placeholder {
+    font-size: 15px;
+}
+.agrre-texts{
+    margin-top: -77px;
+    padding: 0 90px;
+}
+label:before{
+    padding: 7px;
+    top: -2px;
+    left: -35px;
+}
+button.theme-btn{
+    width: 100px;
+    height: 35px;
+}
+/*====== home page end ==========*/
+
+.e-hero {
+    width: 250px;
+}
+/*====== Eventos  page end ==========*/
+
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .pr_0{ padding-right: 15px;}
+    .pl_0 {
+        padding-left: 15px;
+    }
+    .theme-btn{
+        padding: 10px 13px;
+        font-size: 12px;
+        line-height: 13px;
+    }
+        p{font-size: 13px;line-height: 20px;margin-bottom: 10px;}
+        .mr-55{
+        margin-top: -70px;
+    }
+    .header-area{
+        padding: 15px 0 50px;
+    }
+    .header-area a.theme-btn{padding: 13px 30px 11px;font-size: 15px;}
+    .logo-area {
+        width: max-content;
+    }
+    
+    .logo-area a img {
+        width: 100%;
+        max-width: 150px;
+    }
+    .header-area.sticky .menu-area nav ul li a,
+    .menu-area nav ul li a {
+    font-size: 13px;
+    margin-left: 15px;
+    }
+    .nice-select {
+        margin-right: 35px;
+        font-size: 15px;
+        width: 35px;
+    }
+    ul.list li.option{
+    font-size: 12px;
+    }
+
+    
+    .hero-wrp {
+        width: 200px;
+        margin: auto;
+    }
+    .hero-item{
+        padding: 150px 0 50px;
+    }
+    .hero-wrp h1{font-size: 20px;margin-bottom: 20px;}
+    
+    
+    .steps-area{
+        margin-bottom: 50px;
+        overflow: hidden;
+    }
+    .steps-top{
+        margin: 25px 0;
+    }
+    .steps-top p{
+        font-size: 12px;
+    }
+    .steps-top img{
+        margin-right: 25px;
+        width: 50px;
+    }
+    .title-heading{
+        font-size: 25px;
+        text-align: center;
+    }
+    .title{
+        margin-bottom: 65px;
+    }
+    .mbt-0{ margin-bottom: 0 !important;}
+    .sing-step {
+        margin-bottom: 125px;
+        display: inline-block;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .sing-step .stp-wrp{
+        padding-top: 10px;
+        margin-bottom: 100px;
+    }
+    .sing-step .stp-img h1{
+        font-size: 135px;
+        top: -109px;
+        left: 208px;
+    }
+    .sing-step .stp-wrp p{
+    padding: 0;
+    }
+    .sing-step .stp-img{
+    margin-right: 0;
+    width: 100%;
+}
+    .sing-step .stp-img img{
+        width: 100%;
+        max-width: 70px;
+        margin-bottom: 15px;
+    }
+    .sing-step .stp-wrp h2{
+        font-size: 20px;
+    }
+    
+    .m-blk {
+        padding: 30px;
+        /* margin-top: 90px; */
+        /* margin-left: 0px; */
+        width: 100%;
+        margin: 90px 0px 0 0;
+    }
+    .m-blk.right {
+        width: 100%;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .m-blk span{
+        margin-top: 0px;
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .m-blk h3{
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .m-blk a{
+        margin-top: 15px;
+    }
+    .memorise-wrp:before{
+        height: 237px;
+        display: none;
+    }
+    
+    
+    
+    .mice-area{
+        margin: 30px 0;
+        padding-bottom: 230px;
+        position: relative;
+    }
+    .mice-area:before{
+    width: 100%;
+    }
+    .mice-wrp {
+    position: absolute;
+    top: 13em;
+    left: 5%;
+    }
+    .mice-wrp span{
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .mice-wrp h2{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .mice-wrp a{
+        margin-top: 5px;
+    }
+    
+    .memorise-wrp.afcm:before{
+        height: 287px;
+    }
+    .memorise-area.nexts{
+        margin-bottom: 0;
+        margin-top: 300px;
+    }
+    
+    
+    
+    .contact-area{
+        padding: 50px 0;
+        margin-bottom: 30px;
+    }
+    .contact-area .contact-left h2{
+        font-size: 30px;
+        max-width: 300px;
+    }
+    .contact-right p{
+        width: 295px;
+        float: none;
+        text-align: left;
+    }
+    .contact-right {
+        margin-top: 20px;
+    }
+    .contact-area form{
+    margin-top: 25px;
+}
+    textarea{
+        height: 90px;
+        padding-top: 15px;
+    }
+    
+    .contact-area form input, textarea{
+        margin-bottom: 20px;
+        padding-bottom: 0;
+    }
+    input::placeholder {
+        font-size: 14px;
+    }
+    
+    textarea::placeholder {
+        font-size: 15px;
+    }
+    .agrre-texts{
+        margin-top: 0px;
+        padding: 0;
+        padding-left: 31px;
+    }
+    label:before{
+        padding: 7px;
+        top: -2px;
+        left: -30px;
+    }
+    button.theme-btn{
+        width: 100px;
+        height: 35px;
+        position: absolute;
+        left: 5%;
+        bottom: -150px;
+    }
+    /*====== home page end ==========*/
+    
+    
+.e-hero {}
+/*====== Eventos  page end ==========*/
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+/* .sing-step .stp-wrp p {
+    padding: 0 50px;
+} */
+/*====== home page end ==========*/
+
+
+/*====== Eventos  page end ==========*/
+}
